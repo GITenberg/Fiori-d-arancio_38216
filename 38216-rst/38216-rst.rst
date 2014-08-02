@@ -1,0 +1,2167 @@
+.. -*- encoding: utf-8 -*-
+
+.. meta::
+   :PG.Id: 38216
+   :PG.Title: Fiori d'arancio
+   :PG.Released: 2011-12-04
+   :PG.Rights: Public Domain
+   :PG.Producer: Carlo Traverso
+   :PG.Producer: Barbara Magni
+   :PG.Producer: the Online Distributed Proofreading Team at http://www.pgdp.net
+   :PG.Credits: This file was produced from images generously made available by The Internet Archive.
+   :DC.Creator: Roberto Bracco
+   :DC.Title: Fiori d'arancio
+   :DC.Language: it
+   :DC.Created: 1909
+   :coverpage: images/cover.jpg
+
+.. style:: title
+   :class: center
+
+.. style:: subtitle
+   :class: center
+
+.. role:: small-caps
+   :class: small-caps
+
+.. style:: block_quote
+   :class: small
+
+.. role:: xx-large
+   :class: xx-large
+
+.. role:: x-large
+   :class: x-large
+
+.. role:: large
+   :class: large
+
+.. role:: largeit
+   :class: large italics
+
+.. role:: small
+   :class: small
+
+.. role:: scene
+   :class: italics
+
+===============
+Fiori d'arancio
+===============
+
+.. _pg-header:
+
+.. container:: pgheader language-en
+
+   .. style:: paragraph
+      :class: noindent
+
+   This eBook is for the use of anyone anywhere at no cost and with
+   almost no restrictions whatsoever. You may copy it, give it away or
+   re-use it under the terms of the `Project Gutenberg License`_
+   included with this eBook or online at
+   http://www.gutenberg.org/license.
+
+   
+
+   |
+
+   .. _pg-machine-header:
+
+   .. container::
+
+      Title: Fiori d'arancio
+      
+      Author: Roberto Bracco
+      
+      Release Date: December 04, 2011 [EBook #38216]
+      
+      Language: Italian
+      
+      Character set encoding: UTF-8
+
+      |
+
+      .. _pg-start-line:
+
+      \*\*\* START OF THIS PROJECT GUTENBERG EBOOK FIORI D'ARANCIO \*\*\*
+
+   |
+   |
+   |
+   |
+
+   .. _pg-produced-by:
+
+   .. container::
+
+      Produced by Carlo Traverso, Barbara Magni, and the Online Distributed Proofreading Team at http://www.pgdp.net.
+
+      |
+
+      This file was produced from images generously made available by The Internet Archive.
+
+
+.. container:: coverpage
+
+   .. image:: images/cover.jpg
+      :align: center
+
+.. container:: titlepage
+
+   .. class:: center
+
+   | :large:`ROBERTO BRACCO`
+   |
+   | :xx-large:`TEATRO`
+   |
+   | :large:`VOLUME TERZO`
+   |
+   | DON PIETRO CARUSO — LA FINE DELL'AMORE —
+   | **FIORI D'ARANCIO** — TRAGEDIE DELL'ANIMA.
+   |
+   | :small:`3ª EDIZIONE.`
+   |
+   |
+   |
+   | REMO SANDRON — Editore
+   | :small:`Libraio della Real Casa`
+   | :small:`MILANO-PALERMO-NAPOLI-GENOVA`
+   |
+   | :small:`Copyright by Roberto Bracco and Miss Dircé St. Cyr in the United States of America.`
+
+----
+
+.. container:: verso
+
+   .. class:: center
+
+   PROPRIETÀ LETTERARIA
+
+			*I diritti di riproduzione e di traduzione sono riservati
+			per tutti i paesi, non escluso il Regno di Svezia e quello
+			di Norvegia.*
+
+			È assolutamente proibito di rappresentare queste produzioni
+			senza il consenso scritto dell'Autore *(Art. 14 del Testo Unico
+			17 Settembre 1882)*.
+
+			Copyright by Roberto Bracco and Miss Dircé St. Cyr in the United
+			States of America.
+
+			Off. Tip. Sandron — 148 — I — 290514.
+
+----
+
+.. clearpage::
+
+.. class:: center
+
+| :x-large:`FIORI D'ARANCIO`
+|
+| :largeit:`Idillio in un atto`
+
+Rappresentato per la prima volta nell'*aprile* del
+*1898* al teatro *Fiorentini* di *Napoli*, a beneficio
+della Società Margherita pei Ciechi, dalla signorina
+:small-caps:`Rosina Gervasi`, e dai signori conte :small-caps:`Giuseppe
+Calletti`, :small-caps:`Leopoldo Persico` e :small-caps:`Felice De Luca`.
+
+----
+
+[pg!232]
+
+.. clearpage::
+
+[pg!233]
+
+.. class:: center large
+
+PERSONAGGI:
+
+   .. class:: large
+
+   | *Il signor* :small-caps:`Vannucci,` *direttore della scuola.*
+   | :small-caps:`Nina,` *alunna.*
+   | *Altre undici alunne.*
+   | :small-caps:`Don Paolo,` *curato.*
+   | :small-caps:`Ferdinando.`
+   | *Un maestro.*
+
+----
+
+[pg!234]
+
+[pg!235]
+
+ATTO UNICO
+==========
+
+*Lo studio del direttore, di forma irregolare. La
+parete di sinistra sta di sbieco, formando un angolo
+ottuso con la parete di fondo. Ambiente rusticano.
+Una scrivania innanzi a una seggiola a bracciuoli
+di tela cerata. Sulla scrivania, tra gli altri oggetti,
+un orciuolo. A un muro l'enorme orologio ufficiale
+della scuola: sfere e pendolo, immobili. Attaccato
+alla parete di destra, e precisamente alle spalle
+della seggiola a bracciuoli, un gran calendario illustrato
+e una carta geografica. In un canto della
+stanza, un lavamani, con su una bottiglia d'acqua.
+In un altro canto, una campanella con una cordicina
+penzolante. Una vecchia poltrona presso un
+tavolinetto portatile. In fondo, un uscio a due battenti,
+e sull'uscio i ritratti in oleografia del Re e
+della Regina: bruttissimi. Nella parete di sbieco,
+un gran balcone spalancato, dal quale si scorge la
+campagna.*
+
+
+SCENA I.
+--------
+
+Il signor VANNUCCI e DON PAOLO, poi il MAESTRO.
+```````````````````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(si è appisolato sulla vecchia poltrona, con le
+spalle volte al signor Vannucci. Ha davanti il tavolinetto
+su cui sono una tazzolina vuotata e un
+mazzo di carte.)*
+
+[pg!236]
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(è seduto presso la scrivania, curvo sopra un
+registro aperto, e scrive. Un lungo silenzio. A un
+tratto, si lascia scivolare con mal garbo la penna
+dalle dita)* Ih, che inchiostro! Che inchiostro!
+*(Prende l'orciuolo e versa inchiostro nel calamaio.
+Quindi, stringendo fra le labbra i peli più lunghi
+dei baffi, borbotta:)* Si va male. Male assai! *(Guardando
+il registro)* Punti scadenti in grammatica,
+punti scadenti in geografia, punti scadenti in condotta...:
+punti scadenti sempre! Fatiche buttate
+via con queste fanciulle benedette! L'istruzione
+obbligatoria?... A che pro? A che pro?... Fisime,
+caro don Paolo, utopie, sogni! La scuola nel villaggio!
+Uhm! Che sbaglio! Ignoranti vogliono restare,
+ignoranti! Ed è meglio!... Oh, la santa, beata e
+comoda ignoranza! Altro che progresso! Diceva
+bene il celebre Giuseppe Verdi: «Torniamo all'antico!»
+Già, voi siete un progressista sfegatato!...
+Menate vanto di seminare in campagna le idee
+della città e quindi non potete essere della mia opinione.
+Non è così? Eppure, voi, che dite di conoscere
+a fondo l'umanità, dovreste capirmi. *(Un silenzio.)*
+Don Paolo, parlo con voi. *(Un silenzio.)* *(Alzando
+la voce e chiamando:)* Don Paolo, don Paolo!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(svegliandosi)* Oh!... Sono all'ordine. *(Pigliando
+il mazzo di carte)* Faccio carte io.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Ma, don Paolo, non è l'ora della partita. Vi eravate
+addormentato?
+
+[pg!237]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Il vostro caffè è... un narcotico potentissimo!
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Bravo!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Ma perchè non si può fare la partita?
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Devo mettere in libertà le classi femminili, adesso.
+Sono le sette e forse più.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Come lo sapete? L'orologio della vostra scuola
+non è di quelli che camminano. Oh, no!
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(alzandosi)* Il mio vero orologio è il sole. Vedete:
+l'ultimo raggio ha già lasciato il mattoncello lesionato.
+*(Indica un punto del pavimento.)* Nondimeno,
+per la scolaresca, l'orologio a cucù, che è l'orologio
+ufficiale, funziona perfettamente. *(Prende di su
+la scrivania una stecchetta di osso.)* Non cammina?...
+Che importa?... Introducendo questa stecchetta
+nelle sue viscere, io ottengo quanti ululati
+voglio. E nelle scuole, caro don Paolo, tutto è forza
+morale. State a sentire. *(Con la stecchetta, comincia
+a martoriare l'ingranaggio dell'orologio, il quale
+mette fuori sette suoni affannosi.)*
+
+[pg!238]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Bella, questa forza morale!
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(dopo il settimo suono)* Ecco, sono le sette. *(Indi,
+va a tirare la cordicina della campanella, che riempie
+l'aria del suo strepito.)*
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(portando le mani alle orecchie)* Altro saggio di
+forza morale!
+
+*(Si ode sùbito un rumore di panchette smosse e
+un gaio e fanciullesco vocìo femminile.)*
+
+.. class:: center
+
+| :small-caps:`Il Maestro`
+
+*(di dentro, con voce nasale)* Calma, ragazze, calma!
+Caspita, che fretta!
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Ma ci scommetto che il maestro ha più fretta
+delle scolare. *(Torna a sedere presso la scrivania.)*
+
+.. class:: center
+
+| :small-caps:`Il Maestro`
+
+*(schiudendo l'uscio del fondo e facendo comparire
+soltanto la testa calva con i relativi occhiali e
+un paio d'orecchie a ventaglio)* Valgo a servirla,
+direttore?
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(quasi tra sè)* Se l'ho detto io che ha più fretta
+lui!... *(Al maestro)* Nulla di nuovo?
+
+[pg!239]
+
+.. class:: center
+
+| :small-caps:`Il Maestro`
+
+Nulla, direttore. Servo suo, direttore.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+E dica, professore: hanno imparato i quattro
+punti cardinali?
+
+.. class:: center
+
+| :small-caps:`Il Maestro`
+
+Non tutti e quattro, direttore. Mi sono riserbato
+il Nord per la volta ventura.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Ha fatto bene.
+
+.. class:: center
+
+| :small-caps:`Il Maestro`
+
+Grazie, direttore. Servo suo, direttore.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Si conservi. E le raccomando...
+
+.. class:: center
+
+| :small-caps:`Il Maestro`
+
+Che cosa?
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Il Nord.
+
+.. class:: center
+
+| :small-caps:`Il Maestro`
+
+Non dubiti, direttore. Servo suo, direttore. *(E via.)*
+
+[pg!240]
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(sbuffando e parlando tra sè:)* Direttore di qua, direttore
+di là, direttore di giù, direttore di su.... Sarà
+un omaggio, sarà tutto quello che si vuole; ma
+a me sembra una burletta! Nè più, nè meno: una
+burletta!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Fatemi grazia: perchè non vi siete ammogliato?
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Come c'entra questo?
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Voi avete tutti i difetti delle vecchie zitelle, compreso
+quello di brontolare dalla mattina alla sera.
+Se vi foste ammogliato, io non avrei per amico...
+un brontolone....
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Mi dispiace, ma non c'è rimedio.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Ammogliatevi, ammogliatevi. È meglio tardi che
+mai. Anzi, a questo proposito, io volevo proporvi....
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(interrompendo)* Don Paolo, vi prego.... Ho da
+fare il controllo della scolaresca. Vi pare il momento
+opportuno per prendermi in giro?
+
+[pg!241]
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Il controllo! Oh! Oh! Che controllo?
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Ma sì. Devono essere dodici teste e dodici «riverisco».
+Conto giusto.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E allora me ne vado. Se manca qualche testa,
+sto fresco. Arrivederci ...\ *direttore*! Ma torno più
+tardi per la partita, eh?
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Sì, sì, don Paolo. Arrivederci, arrivederci.
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+|
+| :scene:`(Esce.)`
+
+*(Si odono i battimani delle fanciulle e le lor
+voci confuse:)* Don Paolo! Don Paolo! Don Paolo!...
+
+.. class:: center
+
+| :scene:`(Ancora battimani.)`
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(stringendosi il capo tra le palme)* Ora me le mette
+in rivoluzione!... Che pazienza! Che pazienza! *(Vede
+schiudere un po' l'uscio di fondo.)* Finalmente, ci
+siamo!
+
+[pg!242]
+
+
+SCENA II.
+---------
+
+VANNUCCI e le ALUNNE.
+`````````````````````
+
+*(Comincia la sfilata delle scolare. Ognuna di esse
+sporge la testa di tra i battenti dell'uscio semiaperto,
+saluta e scappa.)*
+
+.. class:: center
+
+| :small-caps:`Prima alunna`
+
+Riverisco, signor direttore.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(tra sè)* E una. *(Poi, gridando e battendo il pugno
+sulla scrivania:)* Ho detto mille volte che a
+quest'ora le parole «signor direttore» sono superflue!
+Ma prèdico al deserto, io? *(Di nuovo tra sè)*
+Fra le altre cose, quel «signor direttore» mi confonde
+la mente, e addio controllo!
+
+.. class:: center
+
+| :small-caps:`Seconda alunna`
+
+Riverisco, signor dir....
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Zitta! E due.
+
+.. class:: center
+
+| :small-caps:`Terza alunna`
+
+Riverisco, signor....
+
+[pg!243]
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Zitta! E tre.
+
+.. class:: center
+
+| :small-caps:`Quarta alunna`
+
+Riverisco....
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Proprio così! E quattro.
+
+.. class:: center
+
+| :small-caps:`Quinta alunna`
+
+Riverisco.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Benissimo! E cinque.
+
+.. class:: center
+
+| :small-caps:`Sesta alunna`
+
+Riverisco.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+E sei.
+
+.. class:: center
+
+| :small-caps:`Settima alunna`
+
+Riverisco, signor direttore.... Uh! Non l'ho fatto
+apposta....
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+E sette.... *(Arrabbiandosi)* E sette sono i peccati
+mortali!...
+
+[pg!244]
+
+.. class:: center
+
+| :small-caps:`Ottava alunna`
+
+Riverisco... e niente più.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(come sopra)* Brava la sciocca! E otto.
+
+.. class:: center
+
+| :small-caps:`Nona alunna`
+
+Riveri... schi.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(correggendo)* sco... sco.... E nove.
+
+.. class:: center
+
+| :small-caps:`Decima alunna`
+
+Riveris.... Riverì....
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+... sco! sco! sco!... E dieci.
+
+.. class:: center
+
+| :small-caps:`Undicesima alunna`
+
+Riveri... scò... scò... scò!
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(irritatissimo)* Scoppio! scoppio! scoppio! E undici.
+*(Dopo una lunga pausa)* E undici.... *(Impensierito)*
+Undici!... Una di meno! Dove diamine s'è
+cacciata la dodicesima?... Ah! Eccola... *(Meravigliato)*
+Entra... O perchè mai entra?...
+
+[pg!245]
+
+
+SCENA III.
+----------
+
+VANNUCCI e NINA.
+````````````````
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(portando la borsa dei libri sotto il braccio destro,
+si avanza titubante, con gli occhietti lucidi, che
+guardano in mille punti in un momento solo.)*
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Che c'è, Nina? Che c'è?
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(tenta di sorridere, ma non fa che mostrare i
+suoi dentini bianchi, e sotto l'ascella stringe la borsa
+dei libri, quasi temendo che le cada.)*
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Ma che c'è, dunque, Nina?
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+Nulla.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(brusco)* E allora buona notte! Non vedete che
+sono occupato? Potevate riverirmi com'era vostro
+dovere ed andar via con le vostre compagne. *(Pausa.
+Poi, gentilmente)* Venite qua, Nina: vi ho rimproverata,
+ma ho bisogno di scusarvi io medesimo
+ai miei occhi e di giustificare la vostra venuta in
+[pg!246]
+questa stanza. Via, avvicinatevi.... Non fate la cattiva....
+Il vostro direttore, lo sapete, vi vuol bene
+come a una figlia.
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(inquieta e riluttante, si pesta con l'uno l'altro
+piedino. Ma, a un tratto, si fa coraggio.)* Signor
+direttore....
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Dite....
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(con una cantilena come di parole imparate a
+mente)* Io vengo a ringraziarvi di tutte le cure
+che avete spese per me. La mamma verrà a fare
+lo stesso... domani.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(con l'animo sospeso, si fa triste in viso e la
+guarda di sottecchi.)* Spiegatevi, Nina. Non ho capito....
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+Ecco, signor direttore, io... oggi....
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+... oggi?
+
+[pg!247]
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(lasciando scorgere il suo ingenuo compiacimento)*
+Compisco sedici anni.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(simulando indifferenza)* Ah ah! Sicuro! Sedici
+anni! Eh, infatti, siete diventata alta quasi come
+una donna e avete allungata la veste fino ai piedi....
+*(La contempla con un misto di curiosità, di
+compiacenza e di sordo dispetto.)* Me ne accorgo
+adesso. *(Indi, guarda altrove. Tace. Ha un fastidio
+invincibile. Sbuffa. Brontola:)* A quest'ora, sale
+dai giardini una fragranza di fiori d'arancio così
+acuta che dà alla testa!... Auff!...
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+Volete che chiuda le invetriate?
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+No, no, non chiudete.... Mi piace di vedere il
+tramonto.
+
+*(Nel lontano orizzonte, incorniciato dal balcone
+aperto, un lembo di cielo rosseggia.)*
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(è lì, immobile, coi piedini serrati e incollati al
+suolo.)*
+
+[pg!248]
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(scattando)* Sedici anni! E perciò credete di poter
+dare un calcio alla scuola! Siete donna, non
+è vero? Siete donna? Il maestro tien compagnia
+alla bambola! A sedici anni, siete una dottora! A
+sedici anni i libri si chiudono e la veste si allunga;
+allo studio si sostituiscono le passeggiate, i nastri,
+i ghiribizzi, e al direttore si sostituisce....
+Dio sa che cosa!... Basta! Basta! Basta!... Mi saluti.
+Se ne vada. Subito però... e non se ne parli
+più!..
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(torcendo il collo per non farsi guardare, trattiene
+le lagrime.)* Non è colpa mia se me ne vado,...
+e non è colpa di nessuno. Ho sedici anni,
+ecco; e l'articolo ottavo parla chiaro.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(trasalendo)* L'articolo ottavo?!...
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(ripete ad alta voce, cadenzatamente, il testo dell'articolo:)*
+«Non sono ammesse le fanciulle che
+abbiano meno di sette anni e più di quindici. E l'alunna
+che avrà raggiunta l'età di sedici anni, anche
+nel corso dell'anno scolastico, sarà obbligata a lasciare
+la scuola....» Eh!... Questo è l'articolo ottavo.
+
+[pg!249]
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Lo ricordate a memoria, lo ricordate?!... Non c'è
+che dire! Dovete andarvene. Sono parole che scrissi
+proprio io quando fondai la scuola in questo villaggio.
+*(Sospirando)* Avevo appena trent'anni ed
+erano neri i miei capelli.... Ora ne ho quaranta
+suonati.... Questi dieci anni se li è rubati il tempo!
+*(Pausa.)*
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(lo ha ascoltato senza capire, ed ora è intenta a
+cacciarsi il dito mignolo della sinistra fra le umide
+labbra porporine.)*
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(in tono di acerbo rimprovero, gridando e aggrottando
+le sopracciglia)* Che fate lì?
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(tutta spaurita)* Sa... signor direttore... mi pulivo
+il dito. Veda... è macchiato d'inchiostro. *(E, stendendo
+il braccio, mostra il dito macchiato.)*
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(con ira eccessiva)* Ma ci vuol tutta la sua faccia
+tosta per venirmi a contare di simili ragioni. Gliel'ho
+ripetuto fino alla nausea, cocciuta d'una ragazza,
+che mettere le mani in bocca è ciò che vi
+ha di più ristucchevole e di più indecente. Ma tutto
+fiato sprecato! Le mie parole le entrano in un orecchio
+e se n'escono dall'altro! Si ha un bell'affacchinarsi
+[pg!250]
+da che fa giorno a che fa notte! Ecco,
+ecco quel che se ne ha in compenso: malecreanze,
+mali modi e ingratitudine. Gli è già un pezzo che
+lei, signorina mia, si è guastata. Guardi, guardi,
+guardi qui gli ultimi suoi rapporti, e mi dica un
+po' lei stessa se non c'è da inorridire. *(Consultando
+nervosamente il registro)* Cinque in geografia... tre
+in calligrafia... quattro in grammatica... zero in
+condotta! E per giunta? Per giunta: «ho sedici
+anni.» Vuole che gliela dica come la sento? Vuole
+che glielo faccia in tre parole il suo ritratto?...
+Cervellina, ignorante e ingrata. Sì, ingrata!... Ingrata!
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(vorrebbe parlare e non può: la parola le si strozza
+in gola)* Signor... diret...tore, signor... di...rettore....
+*(Scoppia in un pianto dirotto.)*
+
+.. class:: center
+
+| :scene:`(Un silenzio.)`
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(mortificato, si accosta a Nina, le solleva la fronte
+con le mani tremanti, le asciuga le lagrime col suo
+fazzoletto, le carezza leggermente i capelli, e le
+mormora all'orecchio:)* Ho torto io, Nina, ho torto
+io..., ma... te ne prego... non mi lasciare!
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(abbassa lo sguardo e, presa da un lieve tremito
+di paura vaga, che le fa cadere di sotto l'ascella
+la borsa dei libri, si scosta da lui.)*
+
+[pg!251]
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(osserva tutto ciò con profonda tristezza.)*
+
+.. class:: center
+
+| :scene:`(L'aria si è fatta buia.)`
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(inquieto, stranamente emozionato, va al balcone,
+e resta lì come estatico, mormorando:)* Oh, questa
+fragranza!... Questa fragranza di fiori d'arancio...!
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(sempre tremando, si guarda intorno, e fugge
+via.)*
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(ritornando nella stanza, cerca Nina nella penombra:)*
+Nina!... Nina!... Dove sei, Nina? *(Pausa.)*
+Fuggita! *(Va di nuovo al balcone e la scorge che
+dilegua.)* Come corre!... S'allontana.... Non si vede
+più. *(Chiude le invetriate e gli scuri del balcone;
+accende un lume; raccoglie da terra la borsa e
+i libri di Nina, e li pone accuratamente su la
+scrivania. Siede al suo posto. Scrolla il capo. Si
+passa una mano sulla fronte. Indi, prende una
+penna e guardando il registro ricomincia a borbottare:)*
+Eh,... si va male!... Male assai!
+
+[pg!252]
+
+
+SCENA IV.
+---------
+
+VANNUCCI, FERDINANDO e NINA.
+````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+*(di fuori, chiamando in tono d'allarme:)* Signor
+Vannucci! Signor Vannucci!
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Ohè, chi mi chiama con tanta furia? *(Si alza.)*
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+Signor Vannucci! Presto presto, aprite, chè la
+Nina è svenuta!
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Oh, diavolo!... *(Esce in fretta dal fondo, gridando:)*
+Nina? Nina? Nina?
+
+.. class:: center
+
+| :scene:`(Un silenzio.)`
+
+*(Entrano il signor Vannucci e Ferdinando, che,
+insieme, portano Nina svenuta.)*
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Là, là, su quella poltrona.
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+È viva per miracolo!
+
+[pg!253]
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(adagiando Nina sulla vecchia poltrona)* Ma che
+è accaduto? Che è accaduto? Mi si fa il favore di
+dirmi quello che è accaduto?
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+Il fosso, signor Vannucci, il fosso!
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Il fosso?!
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+Un po' d'acqua, intanto.... Un poco d'acqua dov'è?...
+Ecco. *(Sta per prendere l'orciuolo di su
+la scrivania.)*
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+No. Che fate? Questo è inchiostro!...
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+E che Dio vi benedica! Avete l'inchiostro negli
+orciuoli?
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+L'acqua è lì, nella bottiglia....
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+Ah! *(La prende.)*
+
+[pg!254]
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Nina? Nina? Ninuccia bella? Non senti la mia
+voce?
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+*(con in mano la bottiglia, spruzzando l'acqua sul
+viso e sulla veste di Nina)* Sss! State zitto. Lasciate
+fare a me.... *(Continua a spruzzare acqua)* Lo vedete?
+Lo vedete come rinviene?
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+È vero, è vero!
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(con un fil di voce)* Dove... dove sono capitata?
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+In casa mia, Nina. In casa del vostro direttore.
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(con un lieve moto di panico)* Oh!
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+Sss.... State zitto! È ancora tutta spaurita....
+Figuratevi! Appena uscita dalla scuola, aveva
+presa tale una rincorsa che pareva una pazza, pareva.
+E fuggiva, fuggiva, fuggiva... come se fosse
+stata inseguita da un cane rabbioso. Era buio, capite,
+[pg!255]
+perchè il sindaco non ne ha figlie da mandare
+a scuola, e i fanali qui non ce li mette mica;
+ed è per questo che, alla svoltata del viottolo, la
+poveretta inciampa, barcolla, e dando un grido,
+*patapúnfete*, giù!...
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Misericordia!
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+Fortuna, però, che nel fosso ci ero già io!
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+C'eri già tu?!
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+L'ho potuta afferrare prima che toccasse il terreno,
+signor Vannucci, prima che toccasse il terreno...!
+E siccome le mie braccia sono di ferro, ella
+è restata, così, in aria, come una colomba con le
+ali aperte. *(A Nina)* Neanche indolenzita, n'è vero,
+Nina? Neanche indolenzita?...
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(alzandosi e parlando con soavità, senza raccapezzarsi)*
+Oh no! Niente niente.... Mi sembra soltanto
+d'aver sognato.... E non capisco perchè, ma certo
+non mi dispiacerebbe di rifare il medesimo sogno....
+
+[pg!256]
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Ah! Non vi dispiacerebbe?... *(Dopo un breve silenzio,
+non riuscendo a dissimulare la sua preoccupazione,
+si rivolge con ansia sospettosa a Ferdinando)*
+E tu, come ti ci trovavi in quel fosso?
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+Io... mi ci trovavo... di passaggio.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Ma che passaggio! Che passaggio!... *(Adirandosi)*
+Quel fosso ha la forma d'un imbuto. Bisogna discenderci
+a bella posta, santodio! E per fare ciò
+non si può avere che un solo scopo: quello di
+nascondersi. Sicuro! Di nascondersi come un ladro!
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+Signor Vannucci!...
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Nina, Nina, per amor del cielo, ditemela voi la
+verità. Ditemela voi. Come si trovava laggiù questo
+galantuomo?
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+Signor direttore, io non lo so....
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+La verità, Nina! La verità! La verità!
+
+[pg!257]
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(con pudica reticenza)* La verità è ch'egli....
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(quasi con terrore)* Ti aspettava?!
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(ha un impercettibile sorriso, e, arrossendo, si
+copre il volto con un braccio)* Sì, mi aspettava!
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(sentendosi soffocare da una dolorosa commozione)*
+Dio! Dio! Che enormità! Che corruzione! Che rovina!
+E che si dirà di me nel paese? Che si dirà
+di me? È naturale: si dirà che questo insegno io
+alle ragazze, si dirà che io le educo a fare all'amore,
+che io le spingo a camminare su gli orli dei
+precipizi!... Dio mio! Sono perduto! Sono perduto!...
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+Ma no, signor direttore, non vi disperate così....
+Ferdinando mi aspettava innocentemente....
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(incalzando)* Parla, parla....
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+Sì, innocentemente. Mi aspettava... per dirmi
+qualche paroletta... senza mostrarsi alle mie compagne...
+[pg!258]
+senza mostrarsi a nessuno.... Aveva soltanto,
+un po', la testa fuori del fosso.... E laggiù non
+lo scorgevo che io, io sola, perchè... io distinguo
+il colore dei suoi capelli anche all'oscuro.... Che
+male c'è?... Ci conosciamo da diciassette anni....
+È vero che io non ne ho che sedici... ma lui — dice
+la mamma — veniva già in casa un anno prima
+che io nascessi. È il figliuolo di compare Antonio — lo
+sapete —, quello che ha la vigna accanto
+all'orto della mamma. Ma la mamma dice ch'egli
+non ci deve mettere più piede in casa, ed ecco
+che, così, da un momento all'altro, lo ha scacciato....
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Ah? Lo ha scacciato?!
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+Lo ha scacciato, sì, perchè le galline — dice la
+mamma — le galline lo hanno in antipatia, e,
+quando lo vedono, si guastano il sangue e fanno
+le ova acide. Eh!... Lo dice lei; ma io non me ne
+sono accorta. E allora il poverino — dico io — che
+deve fare? Lui mi dice: così non si può vivere.
+Io gli dico: allora, aspettami nel fosso. Lui mi
+dice: e sì, t'aspetterò. E allora, passando, gli dico:
+buona notte, buona notte, Ferdinando! E lui...
+lui mi dice: ti voglio bene, Nina, ti voglio tanto
+bene!... Ieri *(assai dolce)* me lo disse due volte....
+Oggi — vedete... vi racconto tutto — oggi *(con qualche
+lagrimuccia)* non me lo ha detto ancora.
+
+[pg!259]
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(dopo un silenzio, si accosta con severità esagerata
+e cupa a Ferdinando, che è rimasto lì un poco
+imbarazzato e intenerito)* Lo intendi, tu, quello
+che fai?!
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+*(semplicemente)* Sissignore.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(in tono truce)* Tu commetti un'infamia!
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+Mi meraviglio, signor Vannucci! O che non prese
+forse moglie il mio babbo? Ebbene, me ne voglio
+prendere una anch'io.
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+Ha ragione!
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(a Nina, gridando aspramente)* A posto, voi!
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+E anzi, se foste un direttore coi fiocchi, uno di
+quelli buoni, ci andreste voi a parlare col babbo
+mio e con la mamma di Nina.
+
+[pg!260]
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+Ma come?! È ufficio d'un direttore di scuola,
+questo?
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(con umiltà)* In fin dei conti, signor direttore,
+io ho compiuti gli studi. Non dovreste darmi un
+diploma? E invece mi date un marito.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(montando in furia)* E vi pare che sia lo stesso,
+vi pare!?
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+No. Proprio lo stesso, no. Ma gli è che voi siete
+così buono con me. Anche quando mi sgridate,
+sento che siete buono. Anche quando mi fate piangere,
+sento che siete il mio protettore. Non mi abbandonate
+adesso che ho più bisogno della vostra
+protezione.... Tanto, alla scuola io non ci posso
+più venire.... E giacchè mi toccherebbe di stare
+tutta la giornata in ozio, non è forse meglio maritarmi?...
+Don Paolo, il confessore, mi ha detto
+che il maritarsi non è peccato e che le ragazze sono
+ragazze appunto per cercare marito.... Parlate,
+dunque, parlate voi con la mamma.... Ditele tante
+cose.... Ditele che mi sono condotta bene... e che
+ho meritato questo premio.... Diteglielo con la vostra
+voce dolce, con la vostra voce migliore, e
+lei vi crederà... vi crederà... perchè quando parlate
+con quella voce *(gentilissimamente)* non c'è
+nessuno che non creda in voi come in un santo!...
+
+[pg!261]
+
+
+SCENA V.
+--------
+
+DON PAOLO e gli ALTRI.
+``````````````````````
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(fermandosi sulla soglia della porta in fondo)*
+Piano, piano, piccina mia. Non confondere il signor
+direttore coi santi. Lui, è un altro genere!
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(voltandosi con rabbioso rancore)* Ah, don Paolo,
+siete voi che mettete i mariti nel cervello delle
+fanciulle?
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Io non ce li metto, mio caro: io ce li trovo.
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(esasperandosi)* A quell'età, è una cosa orribile!...
+Orribile!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Non esageriamo. *(Con serenità sacerdotale)* Quando
+il terreno è propizio e l'aria è pura, si può
+anticipare la seminagione.
+
+*(Nina e Ferdinando si avvicinano al signor Vannucci,
+l'una da un lato, l'altro dall'altro, supplichevoli
+e insistenti.)*
+
+[pg!262]
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+Signor Direttore....
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+Signor Vannucci....
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+Accompagnate Ferdinando e me dalla mamma....
+È così tardi.... Ella sarà in pena.
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+Sì, sì, non perdiamo più tempo....
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+Proteggeteci....
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+Aiutateci....
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Animo, direttore, animo!...
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(scattando con un accento di strazio)* Anche voi,
+Don Paolo, anche voi contro di me?! Ma è inutile!
+Io non mi lascio imporre da nessuno, perdinci!, e
+[pg!263]
+non sarò mai il complice d'una mostruosità! Mai!
+Mai!... E poi, per quale ragione dovrei aiutarli?
+Perchè sono buono? E chi lo dice che sono buono?
+Lo pensa lei *(indicando Nina)* e s'intende che lo
+pensi visto che lei è una piccola egoista a cui fa comodo
+di pensarlo. Ma non sono buono io, no che
+non lo sono, e non è possibile d'esser buoni quando
+si vive come io vivo, senza il ricordo d'un sorriso...,
+senza la speranza d'un sorriso! *(In una crescente
+esasperazione di malinconia)* Coltivo un giardino
+che non è mio e che è di tutti gli altri, e, per
+questi fiori che vedo sbocciarmi dinanzi belli e rigogliosi,
+io sono un estraneo... un estraneo; e alla mia
+mano che vorrebbe difenderli perfino dalla rugiada
+troppo fredda o dal raggio di sole troppo ardente,
+essi preferiscono quella che li strappa senza pietà
+e che li porta ad appassire... chi sa dove!... Non
+sono buono io, no, non lo sono, e non voglio esserlo,
+non voglio esserlo!... Don Paolo, non mi cacciate
+in codesta faccenda, e non mi fate predicozzi, chè,
+tanto, non mi convincereste. Questi ragazzi mi
+hanno dato un dolore, un gran dolore; e, adesso,
+che se la sbrighino tra loro e mi lascino in pace.
+*(Siede sulla vecchia poltrona presso il tavolino, e
+non sa dissimulare la sua sofferenza.)* Ciascuno
+per sè e Dio per tutti; e se c'è qualcuno che vuol
+morire d'amore, muoia, muoia pure, e buon viaggio!
+Io me ne lavo le mani!
+
+.. class:: center
+
+| :scene:`(Un silenzio.)`
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(gli si avvicina e, guardingo, insinuante, semplice,
+solenne, gli parla all'orecchio:)* Signor Vannucci...
+[pg!264]
+siete sicuro... di non essere voi innamorato
+di quella fanciulla?
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(levandosi come per una violenta scossa elettrica
+e spalancando gli occhi in un misto di stupore e
+di raccapriccio)* Io! *(Poi acuisce il pensiero, impallidisce,
+abbassa gli occhi e dice a Don Paolo, con
+voce fioca e penosa:)* Don Paolo, voi siete stato crudele,...
+ma io vi sono riconoscente!
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(si stringe nelle spalle in segno di bonaria indulgenza
+sacerdotale e si scosta da lui, andando verso
+Ferdinando e Nina.)*
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(facendo uno sforzo)* Sentite, Nina.... Ho riflettuto
+al vostro desiderio.... *(Con molta dolcezza)* È giusto,
+sì.... Mi occuperò io di ogni cosa.... Sarete
+contenta.... Fidate in me.... Ne riparleremo domani....
+Per ora, abbiate pazienza.... Ho un po' d'emicrania....
+Ma, domani, sarà passata... sarà passata....
+*(Torna a sedere sulla vecchia poltrona e piega
+il capo in una mano, poggiando il gomito sul tavolino.)*
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(piano, a Don Paolo)* Don Paolo....
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+*(piano come lei)* Cos'è?
+
+[pg!265]
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(commossa)* Gli ho forse fatto del male?
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+Un poco.
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+Devo chiedergli perdono?
+
+.. class:: center
+
+| :small-caps:`Don Paolo`
+
+E perchè no? Sarà un beneficio per lui e anche
+per te. Va... va....
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(incoraggiata dallo sguardo di Don Paolo, ma pur
+timidamente, si accosta al signor Vannucci e gli
+s'inginocchia ai piedi.)* Vi chiedo perdono, signor
+direttore.... Io non so che male vi ho fatto, ma vi
+vedo soffrire, vi vedo molto soffrire... e capisco che
+ne sono io la causa. *(Con grande tenerezza)* Perdonatemi,
+signor direttore, perdonatemi....
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(evitando di guardarla)* No, Nina, voi non mi
+avete fatto niente.... Che significa ciò? *(Stendendo
+il braccio per sollevarla)* Su, su.... Alzatevi, alzatevi,
+vi prego di alzarvi!
+
+[pg!266]
+
+.. class:: center
+
+| :small-caps:`Ferdinando`
+
+*(con l'aria d'aver capito, presso la porta in fondo)*
+Andiamo via, Nina!
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+Sì, mi alzerò; ma permettetemi almeno, permettetemi
+di baciarvi questa mano. *(Glie la prende con
+effusione.)*
+
+.. class:: center
+
+| :small-caps:`Vannucci`
+
+*(ritraendola bruscamente, come per una gran
+paura indefinibile)* No, no, no!... *(Indi, mutando
+il tono di paura in un tono di contenuta affettuosità)*
+No, Nina, non ce n'è bisogno.... Grazie...
+grazie.... *(A un tratto, le lagrime gli sgorgano dagli
+occhi copiosamente; ed egli si affretta ad incrociare
+le braccia sul tavolino e a nascondervi il viso, singhiozzando
+in silenzio.)*
+
+.. class:: center
+
+| :small-caps:`Nina`
+
+*(lo guarda attonita e lentamente si alza. Poi
+guarda attonita Don Paolo. Poi, di nuovo, con gli
+occhi fissi sul signor Vannucci, retrocedendo verso
+Ferdinando che l'aspetta inquieto e che tuttora col
+gesto le consiglia di andar via, mormora quasi tra
+sè:)* Come è strano!... *(Pausa.)* Come è strano!...
+
+|
+|
+
+.. class:: center
+
+| :large:`SIPARIO.`
+
+.. class:: center
+
+| :small-caps:`Fine dell'idillio.`
+
+|
+|
+|
+|
+|
+
+.. _pg_end_line:
+
+\*\*\* END OF THIS PROJECT GUTENBERG EBOOK FIORI D'ARANCIO \*\*\*
+
+.. backmatter::
+
+.. toc-entry::
+   :depth: 0
+
+.. _pg-footer:
+
+.. class:: pgfooter language-en
+
+A Word from Project Gutenberg
+=============================
+
+We will update this book if we find any errors.
+
+This book can be found under: http://www.gutenberg.org/ebooks/38216
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules, set
+forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg™ electronic works to
+protect the Project Gutenberg™ concept and trademark. Project
+Gutenberg is a registered trademark, and may not be used if you charge
+for the eBooks, unless you receive specific permission. If you do not
+charge anything for copies of this eBook, complying with the rules is
+very easy. You may use this eBook for nearly any purpose such as
+creation of derivative works, reports, performances and research.
+They may be modified and printed and given away – you may do
+practically *anything* with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+.. _Project Gutenberg License:
+
+The Full Project Gutenberg License
+----------------------------------
+
+*Please read this before you distribute or use this work.*
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+http://www.gutenberg.org/license.
+
+
+Section 1. General Terms of Use & Redistributing Project Gutenberg™ electronic works
+````````````````````````````````````````````````````````````````````````````````````
+
+**1.A.** By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound by
+the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+**1.B.** “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg™ electronic
+works. See paragraph 1.E below.
+
+**1.C.** The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is in the public domain in the United
+States and you are located in the United States, we do not claim a
+right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting free
+access to electronic works by freely sharing Project Gutenberg™ works
+in compliance with the terms of this agreement for keeping the Project
+Gutenberg™ name associated with the work. You can easily comply with
+the terms of this agreement by keeping this work in the same format
+with its attached full Project Gutenberg™ License when you share it
+without charge with others.
+
+
+
+**1.D.** The copyright laws of the place where you are located also
+govern what you can do with this work. Copyright laws in most
+countries are in a constant state of change. If you are outside the
+United States, check the laws of your country in addition to the terms
+of this agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work.  The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+**1.E.** Unless you have removed all references to Project Gutenberg:
+
+**1.E.1.** The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere at no cost and with
+  almost no restrictions whatsoever. You may copy it, give it away or
+  re-use it under the terms of the Project Gutenberg License included
+  with this eBook or online at http://www.gutenberg.org
+
+**1.E.2.** If an individual Project Gutenberg™ electronic work is
+derived from the public domain (does not contain a notice indicating
+that it is posted with permission of the copyright holder), the work
+can be copied and distributed to anyone in the United States without
+paying any fees or charges. If you are redistributing or providing
+access to a work with the phrase “Project Gutenberg” associated with
+or appearing on the work, you must comply either with the requirements
+of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of
+the work and the Project Gutenberg™ trademark as set forth in
+paragraphs 1.E.8 or 1.E.9.
+
+**1.E.3.** If an individual Project Gutenberg™ electronic work is
+posted with the permission of the copyright holder, your use and
+distribution must comply with both paragraphs 1.E.1 through 1.E.7 and
+any additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works posted
+with the permission of the copyright holder found at the beginning of
+this work.
+
+**1.E.4.** Do not unlink or detach or remove the full Project
+Gutenberg™ License terms from this work, or any files containing a
+part of this work or any other work associated with Project
+Gutenberg™.
+
+**1.E.5.** Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+**1.E.6.** You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format other
+than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ web site
+(http://www.gutenberg.org), you must, at no additional cost, fee or
+expense to the user, provide a copy, a means of exporting a copy, or a
+means of obtaining a copy upon request, of the work in its original
+“Plain Vanilla ASCII” or other form. Any alternate format must include
+the full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+**1.E.7.** Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+**1.E.8.** You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works provided
+that
+
+.. class:: open
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method you
+  already use to calculate your applicable taxes. The fee is owed to
+  the owner of the Project Gutenberg™ trademark, but he has agreed to
+  donate royalties under this paragraph to the Project Gutenberg
+  Literary Archive Foundation. Royalty payments must be paid within 60
+  days following each date on which you prepare (or are legally
+  required to prepare) your periodic tax returns. Royalty payments
+  should be clearly marked as such and sent to the Project Gutenberg
+  Literary Archive Foundation at the address specified in Section 4,
+  “Information about donations to the Project Gutenberg Literary
+  Archive Foundation.”
+
+- You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg™
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg™
+  works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+- You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
+
+**1.E.9.** If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and
+Michael Hart, the owner of the Project Gutenberg™ trademark. Contact
+the Foundation as set forth in Section 3. below.
+
+**1.F.**
+
+**1.F.1.** Project Gutenberg volunteers and employees expend
+considerable effort to identify, do copyright research on, transcribe
+and proofread public domain works in creating the Project Gutenberg™
+collection. Despite these efforts, Project Gutenberg™ electronic
+works, and the medium on which they may be stored, may contain
+“Defects,” such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+**1.F.2.** LIMITED WARRANTY, DISCLAIMER OF DAMAGES – Except for the
+“Right of Replacement or Refund” described in paragraph 1.F.3, the
+Project Gutenberg Literary Archive Foundation, the owner of the
+Project Gutenberg™ trademark, and any other party distributing a
+Project Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+**1.F.3.** LIMITED RIGHT OF REPLACEMENT OR REFUND – If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+**1.F.4.** Except for the limited right of replacement or refund set
+forth in paragraph 1.F.3, this work is provided to you ‘AS-IS,’ WITH
+NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+**1.F.5.** Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+**1.F.6.** INDEMNITY – You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in accordance
+with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+
+Section 2. Information about the Mission of Project Gutenberg™
+``````````````````````````````````````````````````````````````
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will remain
+freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future generations. To
+learn more about the Project Gutenberg Literary Archive Foundation and
+how your efforts and donations can help, see Sections 3 and 4 and the
+Foundation web page at http://www.pglaf.org .
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+``````````````````````````````````````````````````````````````````````````````
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Its 501(c)(3) letter is posted at
+http://www.gutenberg.org/fundraising/pglaf . Contributions to the
+Project Gutenberg Literary Archive Foundation are tax deductible to
+the full extent permitted by U.S.  federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr.
+S. Fairbanks, AK, 99712., but its volunteers and employees are
+scattered throughout numerous locations. Its business office is
+located at 809 North 1500 West, Salt Lake City, UT 84116, (801)
+596-1887, email business@pglaf.org. Email contact links and up to date
+contact information can be found at the Foundation's web site and
+official page at http://www.pglaf.org
+
+For additional contact information:
+
+ | Dr. Gregory B. Newby
+ | Chief Executive and Director
+ | gbnewby@pglaf.org
+
+
+Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
+```````````````````````````````````````````````````````````````````````````````````````````
+
+Project Gutenberg™ depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array of
+equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status
+with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: http://www.gutenberg.org/fundraising/donate
+
+
+Section 5. General Information About Project Gutenberg™ electronic works.
+`````````````````````````````````````````````````````````````````````````
+
+
+Professor Michael S. Hart is the originator of the Project Gutenberg™
+concept of a library of electronic works that could be freely shared
+with anyone. For thirty years, he produced and distributed Project
+Gutenberg™ eBooks with only a loose network of volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the
+U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected *editions* of our eBooks replace the old file and take over
+the old filename and etext number. The replaced older file is
+renamed. *Versions* based on separate sources are treated as new
+eBooks receiving new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search
+facility:
+
+  http://www.gutenberg.org
+            
+This Web site includes information about Project Gutenberg™, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe
+to our email newsletter to hear about new eBooks.
+
